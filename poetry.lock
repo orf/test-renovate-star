@@ -1,6 +1,6 @@
 [[package]]
 name = "boto3"
-version = "1.17.7"
+version = "1.17.5"
 description = "The AWS SDK for Python"
 category = "main"
 optional = false
